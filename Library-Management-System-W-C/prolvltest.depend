@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1717051811 source:d:\codeblocks\prolvltest\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
